@@ -21,7 +21,11 @@ Index.html is a service.
 Ability to modularize services
 
 Rest is an architecture for building web services
+
 C - r e a t e
+
 R - e a d
+
 U - p d a t e
+
 D - e s t r o y
